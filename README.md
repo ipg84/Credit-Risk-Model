@@ -1,4 +1,4 @@
-OBJECTIVE: The purpose of this study is to estimate the Expected Loss (EL), associated with provisions, and the Unexpected Loss (EL), associated with provisions, and the Unexpected Loss (UL), associated with provisions. Unexpected Loss (UL), associated with regulatory capital, of a portfolio of unsecured retail consumer portfolio of unsecured retail loans using advanced Machine Learning and Artificial Intelligence techniques.
+OBJECTIVE: The purpose of this study is to estimate the Expected Loss (EL),  associated with provisions, and the Unexpected Loss (UL),  associated with regulatory capital, of a portfolio of unsecured retail consumer loans using advanced Machine Learning and Artificial Intelligence techniques.
 
 Dataset: Detailed information on more than 400,000 consumer loans granted between 2007 and 2015 by Lending Club, one of the leading peer-to-peer financing platforms in the United States.
 
